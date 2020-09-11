@@ -1,1 +1,2 @@
 obj-$(CONFIG_LEADCORE_FINGERPRINT) += leadcore/
+obj-$(CONFIG_SUNWAVE_FINGERPRINT) += sunwave/
