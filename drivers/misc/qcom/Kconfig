@@ -23,3 +23,9 @@ config MSM_MCU_TIME_SYNC
        help
          Say Y here if you want to get mcu and apq8009 data transfer
          with gpio.
+
+config WIND_ASUS_USB_TEMP_CHECK
+	bool "WIND_ASUS config usb thermal code"
+	default n
+	help
+		need config usb thermal code
