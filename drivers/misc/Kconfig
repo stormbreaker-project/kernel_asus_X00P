@@ -635,5 +635,6 @@ source "drivers/misc/echo/Kconfig"
 source "drivers/misc/cxl/Kconfig"
 source "drivers/misc/dtv/fc8350/Kconfig"
 source "drivers/misc/fingerprint/leadcore/Kconfig"
+source "drivers/misc/fingerprint/microarray/Kconfig"
 source "drivers/misc/fingerprint/sunwave/Kconfig"
 endmenu
