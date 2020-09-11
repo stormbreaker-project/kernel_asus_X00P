@@ -29,3 +29,5 @@ config WIND_ASUS_USB_TEMP_CHECK
 	default n
 	help
 		need config usb thermal code
+
+source "drivers/misc/qcom/sim_int_default_set/Kconfig"
